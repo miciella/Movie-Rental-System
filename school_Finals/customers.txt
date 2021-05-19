@@ -1,0 +1,41 @@
+Customer ID: 1
+Name: Miciella Decano
+Address: Istana Subd. Malagasang 1-F Imus Cavite
+===============================================
+Customer ID: 2
+Name: Erin Cordero
+Address: Springville Heights Molino, Bacoor
+===============================================
+Customer ID: 3
+Name: Dana Huang
+Address: Monteverde, GMA Cavite
+===============================================
+Customer ID: 4
+Name: Darla David
+Address: San Pedro, Laguna
+===============================================
+Customer ID: 5
+Name: Yannie Buama
+Address: Cupang, Muntinlupa
+===============================================
+Customer ID: 6
+Name: Cole Sprouse
+Address:  New York City
+===============================================
+Customer ID: 7
+Name: Zac Efron
+Address: Hollywood California
+===============================================
+Customer ID: 8
+Name: Johnny Suh
+Address: Seoul, Korea
+===============================================
+Customer ID: 9
+Name: Dylan Sprouse
+Address: New York City
+===============================================
+Customer ID: 10
+Name: Noah Centineo
+Address: Los Angeles, California
+===============================================
+

@@ -1,0 +1,175 @@
+Movie ID: 101
+Movie Title: Bad Boys
+Movie Genre: Action
+Movie Production: Overbook Ent.
+Movie Copies: 5
+Movie Image: action_badBoys.jpg
+===============================================
+Movie ID: 102
+Movie Title: John Wick
+Movie Genre: Action
+Movie Production: Summit Ent
+Movie Copies: 5
+Movie Image: action_johnWick.jpg
+===============================================
+Movie ID: 103
+Movie Title: Spy
+Movie Genre: Action
+Movie Production: Chernin Ent.
+Movie Copies: 5
+Movie Image: action_spy.jpg
+===============================================
+Movie ID: 104
+Movie Title: Taken
+Movie Genre: Action
+Movie Production: Canal+
+Movie Copies: 5
+Movie Image: action_Taken.jpg
+===============================================
+Movie ID: 105
+Movie Title: The Hitman's Bodyguard
+Movie Genre: Action
+Movie Production: Millenium Films
+Movie Copies: 5
+Movie Image: action_theHitman'sBodyguard.jpg
+===============================================
+Movie ID: 201
+Movie Title: 3 Idiots
+Movie Genre: Comedy
+Movie Production: Vinod Chopra Productions
+Movie Copies: 5
+Movie Image: comedy_3idiots.jpg
+===============================================
+Movie ID: 202
+Movie Title: Blended
+Movie Genre: Comedy
+Movie Production: Happy Madison Production
+Movie Copies: 5
+Movie Image: comedy_Blended.jpg
+===============================================
+Movie ID: 203
+Movie Title: Meet Dave
+Movie Genre: Comedy
+Movie Production: RatPac-Dune Entertainment
+Movie Copies: 5
+Movie Image: comedy_meetDave.jpg
+===============================================
+Movie ID: 204
+Movie Title: The Dictator
+Movie Genre: Comedy
+Movie Production: Paramount Pictures
+Movie Copies: 5
+Movie Image: comedy_theDictator.jpg
+===============================================
+Movie ID: 205
+Movie Title: White Chicks
+Movie Genre: Comedy
+Movie Production: Revolution Studios
+Movie Copies: 5
+Movie Image: comedy_WhiteChicks.jpg
+===============================================
+Movie ID: 301
+Movie Title: Insidious
+Movie Genre: Horror
+Movie Production: IM Global
+Movie Copies: 5
+Movie Image: horror_Insidious.jpg
+===============================================
+Movie ID: 302
+Movie Title: IT
+Movie Genre: Horror
+Movie Production: New Line Cinema
+Movie Copies: 5
+Movie Image: horror_It.jpg
+===============================================
+Movie ID: 303
+Movie Title: Sinister
+Movie Genre: Horror
+Movie Production: Blumhouse Production
+Movie Copies: 5
+Movie Image: horror_sinister.jpg
+===============================================
+Movie ID: 304
+Movie Title: The Grudge
+Movie Genre: Horror
+Movie Production: Screen Gems
+Movie Copies: 5
+Movie Image: horror_theGrudge.jpg
+===============================================
+Movie ID: 305
+Movie Title: The Nun
+Movie Genre: Horror
+Movie Production: New Line Cinema
+Movie Copies: 5
+Movie Image: horror_theNun.jpg
+===============================================
+Movie ID: 401
+Movie Title: Love Rosie
+Movie Genre: Romance
+Movie Production: Constantin Film
+Movie Copies: 5
+Movie Image: romance_loveRosie.jpg
+===============================================
+Movie ID: 402
+Movie Title: Me Before You
+Movie Genre: Romance
+Movie Production: MGM
+Movie Copies: 5
+Movie Image: romance_meBeforeYou.jpg
+===============================================
+Movie ID: 403
+Movie Title: The Notebook
+Movie Genre: Romance
+Movie Production: New Line Cinema
+Movie Copies: 5
+Movie Image: romance_theNotebook.jpg
+===============================================
+Movie ID: 404
+Movie Title: The Vow
+Movie Genre: Romance
+Movie Production: Spyglass Ent.
+Movie Copies: 5
+Movie Image: romance_theVow.jpg
+===============================================
+Movie ID: 405
+Movie Title: Titanic
+Movie Genre: Romance
+Movie Production: Paramount Pictures
+Movie Copies: 5
+Movie Image: romance_Titanic.jpg
+===============================================
+Movie ID: 501
+Movie Title: Alien
+Movie Genre: Sci-Fi
+Movie Production: Brandywine Productions
+Movie Copies: 5
+Movie Image: sci-fi_Alien.jpg
+===============================================
+Movie ID: 502
+Movie Title: Bird Box
+Movie Genre: Sci-Fi
+Movie Production: Netflix
+Movie Copies: 5
+Movie Image: sci-fi_BirdBox.jpg
+===============================================
+Movie ID: 503
+Movie Title: Lucy
+Movie Genre: Sci-Fi
+Movie Production: Canal+
+Movie Copies: 5
+Movie Image: sci-fi_lucy.jpg
+===============================================
+Movie ID: 504
+Movie Title: Men in Black
+Movie Genre: Sci-Fi
+Movie Production: Amblin Entertainment
+Movie Copies: 5
+Movie Image: sci-fi_menInBlack.jpg
+===============================================
+Movie ID: 505
+Movie Title: The Martian
+Movie Genre: Sci-Fi
+Movie Production: TSG Entertainment
+Movie Copies: 5
+Movie Image: sci-fi_theMartian.jpg
+===============================================
